@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/03/21/50/43/360_F_321504330_CBaosL3tWdwGYeVak29Y0CmN792D0gG3.jpg);
+    background-repeat: repeat;
+}
+.tableaustyle{
+    display: block;
+    margin: auto;
+}
+li{
+    background-color: plum;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    width: 100px;
+    padding: 10px;
+    
+}
+h1{
+    background-color: pink;
+    color: fuchsia;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    position: absolute;
+   
+    display: block;
+    margin: auto;
+}
+.footer{
+    position: absolute;
+   
+    display: block;
+    margin: auto;
+}
+.mainstuff{
+    position: absolute;
+   
+    display: block;
+    margin: auto;
+}
